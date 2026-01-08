@@ -1,0 +1,48 @@
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.deps.json
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.dll
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.pdb
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.csproj.AssemblyReference.cache
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.AssemblyInfoInputs.cache
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.AssemblyInfo.cs
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.csproj.CoreCompileInputs.cache
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.dll
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\refint\Yale.Model.dll
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.pdb
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\ref\Yale.Model.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.deps.json
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.AssemblyInfo.cs
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\refint\Yale.Model.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\ref\Yale.Model.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.deps.json
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.pdb
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.csproj.AssemblyReference.cache
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.AssemblyInfoInputs.cache
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.AssemblyInfo.cs
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.csproj.CoreCompileInputs.cache
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\refint\Yale.Model.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.pdb
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\ref\Yale.Model.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.deps.json
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\bin\Debug\net8.0\Yale.Model.pdb
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.csproj.AssemblyReference.cache
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.AssemblyInfoInputs.cache
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.AssemblyInfo.cs
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.csproj.CoreCompileInputs.cache
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\refint\Yale.Model.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\Yale.Model.pdb
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.Model\obj\Debug\net8.0\ref\Yale.Model.dll

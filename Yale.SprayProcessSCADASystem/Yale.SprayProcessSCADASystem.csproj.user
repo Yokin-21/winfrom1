@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromStartLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PageAuthManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PageChartManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PageEquipmentMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PageEquipmentMonitor1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PageEquipmentMonitor2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PageLogManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PageRecipeManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PageReportManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PageSystemParameterSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PageTotalEquipmentControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PageUserManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserAlarmState.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserCounterButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserDeviceState.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserDeviceUnitControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserSetValue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserVarCurrentValue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

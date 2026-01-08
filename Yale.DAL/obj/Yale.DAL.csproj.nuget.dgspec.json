@@ -1,0 +1,244 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Yale.DAL.csproj": {}
+  },
+  "projects": {
+    "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Yale.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Yale.DAL.csproj",
+        "projectName": "Yale.DAL",
+        "projectPath": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Yale.DAL.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Helper\\Yale.Helper.csproj": {
+                "projectPath": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Helper\\Yale.Helper.csproj"
+              },
+              "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Model\\Yale.Model.csproj": {
+                "projectPath": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Model\\Yale.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Helper\\Yale.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Helper\\Yale.Helper.csproj",
+        "projectName": "Yale.Helper",
+        "projectPath": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Helper\\Yale.Helper.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Model\\Yale.Model.csproj": {
+                "projectPath": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Model\\Yale.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Model\\Yale.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Model\\Yale.Model.csproj",
+        "projectName": "Yale.Model",
+        "projectPath": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Model\\Yale.Model.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\300视频\\2024\\B站课程\\付费课程\\软件项目\\Yale.SprayProcessSCADASystem\\Yale.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "Masuit.Tools.Core": {
+              "target": "Package",
+              "version": "[2024.5.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.3.14, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.169, )"
+            },
+            "YR.FrameWork.DependencyInjection": {
+              "target": "Package",
+              "version": "[0.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

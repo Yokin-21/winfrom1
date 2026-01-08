@@ -1,0 +1,535 @@
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.AssemblyReference.cache
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FrmLogin.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FrmMain.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FromStartLoad.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageAuthManage.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageChartManage.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor1.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor2.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageLogManage.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageRecipeManage.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageReportManage.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageSystemParameterSet.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageTotalEquipmentControl.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageUserManage.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.Properties.Resources.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserAlarmState.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserCounterButton.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserDeviceState.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserDeviceUnitControl.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserSetValue.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserVarCurrentValue.resources
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.GenerateResource.cache
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.AssemblyInfoInputs.cache
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.AssemblyInfo.cs
+E:\BaiduNetdiskDownload\喷涂工艺SCADA系统(1)\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FrmLogin.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FrmMain.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FromStartLoad.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageAuthManage.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageChartManage.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor1.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor2.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageLogManage.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageRecipeManage.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageReportManage.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageSystemParameterSet.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageTotalEquipmentControl.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageUserManage.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.Properties.Resources.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserAlarmState.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserCounterButton.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserDeviceState.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserDeviceUnitControl.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserSetValue.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserVarCurrentValue.resources
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.GenerateResource.cache
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.AssemblyInfo.cs
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.exe
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\appsettings.json
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.deps.json
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.runtimeconfig.json
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\AngleSharp.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\AngleSharp.Css.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Azure.Core.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Azure.Identity.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Castle.Core.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\DnsClient.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\IoTClient.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Mapster.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Mapster.Core.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Masuit.Tools.Abstractions.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Masuit.Tools.Core.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Data.Sqlite.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\MiniExcel.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\MySqlConnector.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\NLog.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\NLog.Extensions.Logging.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Npgsql.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Oscar.Data.SqlClient.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Scrutor.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SharpCompress.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SixLabors.Fonts.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SixLabors.ImageSharp.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SQLitePCLRaw.core.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SqlSugar.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\DM.DmProvider.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Kdbndp.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SunnyUI.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SunnyUI.Common.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.ClientModel.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.DirectoryServices.Protocols.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.IO.Ports.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.Management.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.Memory.Data.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.Runtime.Caching.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\YR.FrameWork.DependencyInjection.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ZstdSharp.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm\native\System.IO.Ports.Native.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-x64\native\System.IO.Ports.Native.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.BLL.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.DAL.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Helper.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Model.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.BLL.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.DAL.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Helper.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Model.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.Spr.42CE1C3B.Up2Date
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\refint\Yale.SprayProcessSCADASystem.dll
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.genruntimeconfig.cache
+C:\Users\admin\Documents\WeChat Files\wxid_rkviguxgh8bt22\FileStorage\File\2025-04\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\ref\Yale.SprayProcessSCADASystem.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.exe
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\appsettings.json
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.deps.json
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.runtimeconfig.json
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.pdb
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\AngleSharp.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\AngleSharp.Css.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Azure.Core.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Azure.Identity.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Castle.Core.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\DnsClient.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\IoTClient.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Mapster.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Mapster.Core.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Masuit.Tools.Abstractions.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Masuit.Tools.Core.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Data.SqlClient.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Data.Sqlite.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.SqlServer.Server.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\MiniExcel.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\MySqlConnector.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\NLog.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\NLog.Extensions.Logging.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Npgsql.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Oracle.ManagedDataAccess.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Oscar.Data.SqlClient.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Scrutor.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SharpCompress.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SixLabors.Fonts.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SixLabors.ImageSharp.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SixLabors.ImageSharp.Drawing.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SQLitePCLRaw.batteries_v2.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SQLitePCLRaw.core.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SqlSugar.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\DM.DmProvider.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Kdbndp.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SunnyUI.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SunnyUI.Common.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.ClientModel.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.DirectoryServices.Protocols.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.IO.Ports.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.Management.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.Memory.Data.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.Runtime.Caching.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\YR.FrameWork.DependencyInjection.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ZstdSharp.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm\native\System.IO.Ports.Native.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-x64\native\System.IO.Ports.Native.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Management.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.BLL.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.DAL.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Helper.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Model.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.BLL.pdb
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.DAL.pdb
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Helper.pdb
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Model.pdb
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.AssemblyReference.cache
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FrmLogin.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FrmMain.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FromStartLoad.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageAuthManage.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageChartManage.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor1.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor2.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageLogManage.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageRecipeManage.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageReportManage.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageSystemParameterSet.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageTotalEquipmentControl.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageUserManage.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.Properties.Resources.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserAlarmState.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserCounterButton.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserDeviceState.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserDeviceUnitControl.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserSetValue.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserVarCurrentValue.resources
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.GenerateResource.cache
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.AssemblyInfoInputs.cache
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.AssemblyInfo.cs
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.CoreCompileInputs.cache
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.Spr.42CE1C3B.Up2Date
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\refint\Yale.SprayProcessSCADASystem.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.pdb
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.genruntimeconfig.cache
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\ref\Yale.SprayProcessSCADASystem.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\TouchSocket.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\TouchSocket.Core.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\zh-CN\TouchSocket.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\zh-CN\TouchSocket.Core.resources.dll
+E:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\PLC_Var_Config.xlsx
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.exe
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\appsettings.json
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\PLC_Var_Config.xlsx
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.deps.json
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.runtimeconfig.json
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.pdb
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\AngleSharp.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\AngleSharp.Css.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Azure.Core.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Azure.Identity.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Castle.Core.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\DnsClient.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\IoTClient.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Mapster.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Mapster.Core.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Masuit.Tools.Abstractions.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Masuit.Tools.Core.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Data.SqlClient.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Data.Sqlite.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Microsoft.SqlServer.Server.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\MiniExcel.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\MySqlConnector.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\NLog.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\NLog.Extensions.Logging.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Npgsql.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Oracle.ManagedDataAccess.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Oscar.Data.SqlClient.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Scrutor.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SharpCompress.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SixLabors.Fonts.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SixLabors.ImageSharp.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SixLabors.ImageSharp.Drawing.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SQLitePCLRaw.batteries_v2.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SQLitePCLRaw.core.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SqlSugar.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\DM.DmProvider.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Kdbndp.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SunnyUI.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\SunnyUI.Common.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.ClientModel.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.DirectoryServices.Protocols.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.IO.Ports.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.Management.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.Memory.Data.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\System.Runtime.Caching.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\TouchSocket.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\TouchSocket.Core.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\YR.FrameWork.DependencyInjection.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ZstdSharp.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\zh-CN\TouchSocket.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\zh-CN\TouchSocket.Core.resources.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.BLL.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.DAL.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Helper.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Model.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.BLL.pdb
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.DAL.pdb
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Helper.pdb
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\bin\Debug\net8.0-windows7.0\Yale.Model.pdb
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.AssemblyReference.cache
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FrmLogin.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FrmMain.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.FromStartLoad.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageAuthManage.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageChartManage.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor1.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageEquipmentMonitor2.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageLogManage.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageRecipeManage.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageReportManage.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageSystemParameterSet.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageTotalEquipmentControl.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.PageUserManage.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.Properties.Resources.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserAlarmState.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserCounterButton.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserDeviceState.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserDeviceUnitControl.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserSetValue.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.UserVarCurrentValue.resources
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.GenerateResource.cache
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.AssemblyInfoInputs.cache
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.AssemblyInfo.cs
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.csproj.CoreCompileInputs.cache
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.Spr.42CE1C3B.Up2Date
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\refint\Yale.SprayProcessSCADASystem.dll
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.pdb
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\Yale.SprayProcessSCADASystem.genruntimeconfig.cache
+D:\300视频\2024\B站课程\付费课程\软件项目\Yale.SprayProcessSCADASystem\Yale.SprayProcessSCADASystem\obj\Debug\net8.0-windows7.0\ref\Yale.SprayProcessSCADASystem.dll

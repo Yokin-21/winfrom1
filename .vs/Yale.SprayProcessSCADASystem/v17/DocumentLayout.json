@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.sprayprocessscadasystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD482FC-AB8E-4C25-80D5-207A6C574DE1}|Yale.BLL\\Yale.BLL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.bll\\yale.bll.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7FD482FC-AB8E-4C25-80D5-207A6C574DE1}|Yale.BLL\\Yale.BLL.csproj|solutionrelative:yale.bll\\yale.bll.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.dal\\yale.dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|solutionrelative:yale.dal\\yale.dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEF87D-9D05-4648-AB58-14B8888B3BE4}|Yale.Helper\\Yale.Helper.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.helper\\yale.helper.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{64AEF87D-9D05-4648-AB58-14B8888B3BE4}|Yale.Helper\\Yale.Helper.csproj|solutionrelative:yale.helper\\yale.helper.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B72F1C2-ED5A-4DC6-BF78-5650D4F820CE}|Yale.Model\\Yale.Model.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.model\\yale.model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6B72F1C2-ED5A-4DC6-BF78-5650D4F820CE}|Yale.Model\\Yale.Model.csproj|solutionrelative:yale.model\\yale.model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.sprayprocessscadasystem\\yale.sprayprocessscadasystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\yale.sprayprocessscadasystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.sprayprocessscadasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.sprayprocessscadasystem\\uiextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\uiextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.dal\\serivice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|solutionrelative:yale.dal\\serivice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD482FC-AB8E-4C25-80D5-207A6C574DE1}|Yale.BLL\\Yale.BLL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.bll\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD482FC-AB8E-4C25-80D5-207A6C574DE1}|Yale.BLL\\Yale.BLL.csproj|solutionrelative:yale.bll\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD482FC-AB8E-4C25-80D5-207A6C574DE1}|Yale.BLL\\Yale.BLL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.bll\\manager\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD482FC-AB8E-4C25-80D5-207A6C574DE1}|Yale.BLL\\Yale.BLL.csproj|solutionrelative:yale.bll\\manager\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD482FC-AB8E-4C25-80D5-207A6C574DE1}|Yale.BLL\\Yale.BLL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.bll\\manager\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD482FC-AB8E-4C25-80D5-207A6C574DE1}|Yale.BLL\\Yale.BLL.csproj|solutionrelative:yale.bll\\manager\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.dal\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|solutionrelative:yale.dal\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD482FC-AB8E-4C25-80D5-207A6C574DE1}|Yale.BLL\\Yale.BLL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.bll\\manager\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD482FC-AB8E-4C25-80D5-207A6C574DE1}|Yale.BLL\\Yale.BLL.csproj|solutionrelative:yale.bll\\manager\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.dal\\serivice\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|solutionrelative:yale.dal\\serivice\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.dal\\serivice\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|solutionrelative:yale.dal\\serivice\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.dal\\serivice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|solutionrelative:yale.dal\\serivice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B72F1C2-ED5A-4DC6-BF78-5650D4F820CE}|Yale.Model\\Yale.Model.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B72F1C2-ED5A-4DC6-BF78-5650D4F820CE}|Yale.Model\\Yale.Model.csproj|solutionrelative:yale.model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B72F1C2-ED5A-4DC6-BF78-5650D4F820CE}|Yale.Model\\Yale.Model.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.model\\entity\\dataentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B72F1C2-ED5A-4DC6-BF78-5650D4F820CE}|Yale.Model\\Yale.Model.csproj|solutionrelative:yale.model\\entity\\dataentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.dal\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994628D1-E40D-42D0-8B5D-4902E211FCC1}|Yale.DAL\\Yale.DAL.csproj|solutionrelative:yale.dal\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.sprayprocessscadasystem\\usercontrols\\userdeviceunitcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\usercontrols\\userdeviceunitcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\usercontrols\\userdeviceunitcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\usercontrols\\userdeviceunitcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\usercontrols\\usersetvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\usercontrols\\usersetvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\usercontrols\\userdevicestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\usercontrols\\userdevicestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\usercontrols\\uservarcurrentvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\usercontrols\\uservarcurrentvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\pages\\pageequipmentmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\pages\\pageequipmentmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\usercontrols\\usercounterbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\usercontrols\\usercounterbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\pages\\pagetotalequipmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\pages\\pagetotalequipmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\pages\\pageequipmentmonitor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\pages\\pageequipmentmonitor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\pages\\pagesystemparameterset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\pages\\pagesystemparameterset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\pages\\pagereportmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\pages\\pagereportmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\pages\\pagerecipemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\pages\\pagerecipemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\pages\\pageusermanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\pages\\pageusermanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.sprayprocessscadasystem\\usercontrols\\uservarcurrentvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\usercontrols\\uservarcurrentvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.sprayprocessscadasystem\\pages\\pagetotalequipmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\pages\\pagetotalequipmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\usercontrols\\useralarmstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\usercontrols\\useralarmstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\yale.sprayprocessscadasystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|e:\\300\u89C6\u9891\\2024\\b\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\yale.sprayprocessscadasystem\\yale.sprayprocessscadasystem\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B415239D-5265-4E73-8DC2-161B9D047FC7}|Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj|solutionrelative:yale.sprayprocessscadasystem\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 140,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\appsettings.json",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\appsettings.json",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\appsettings.json",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T15:24:35.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yale.BLL",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.BLL\\Yale.BLL.csproj",
+              "RelativeDocumentMoniker": "Yale.BLL\\Yale.BLL.csproj",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.BLL\\Yale.BLL.csproj",
+              "RelativeToolTip": "Yale.BLL\\Yale.BLL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T15:24:03.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Yale.DAL",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Yale.DAL.csproj",
+              "RelativeDocumentMoniker": "Yale.DAL\\Yale.DAL.csproj",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Yale.DAL.csproj",
+              "RelativeToolTip": "Yale.DAL\\Yale.DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T15:23:58.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Yale.Helper",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.Helper\\Yale.Helper.csproj",
+              "RelativeDocumentMoniker": "Yale.Helper\\Yale.Helper.csproj",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.Helper\\Yale.Helper.csproj",
+              "RelativeToolTip": "Yale.Helper\\Yale.Helper.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T15:23:50.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Yale.Model",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.Model\\Yale.Model.csproj",
+              "RelativeDocumentMoniker": "Yale.Model\\Yale.Model.csproj",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.Model\\Yale.Model.csproj",
+              "RelativeToolTip": "Yale.Model\\Yale.Model.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T15:23:46.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Program.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\Program.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Program.cs",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:29:26.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecipeManager.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.BLL\\Manager\\RecipeManager.cs",
+              "RelativeDocumentMoniker": "Yale.BLL\\Manager\\RecipeManager.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.BLL\\Manager\\RecipeManager.cs",
+              "RelativeToolTip": "Yale.BLL\\Manager\\RecipeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:05:05.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.BLL\\Manager\\DataManager.cs",
+              "RelativeDocumentMoniker": "Yale.BLL\\Manager\\DataManager.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.BLL\\Manager\\DataManager.cs",
+              "RelativeToolTip": "Yale.BLL\\Manager\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:05:04.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Serivice\\RecipeService.cs",
+              "RelativeDocumentMoniker": "Yale.DAL\\Serivice\\RecipeService.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Serivice\\RecipeService.cs",
+              "RelativeToolTip": "Yale.DAL\\Serivice\\RecipeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:04:59.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.BLL\\Manager\\UserManager.cs",
+              "RelativeDocumentMoniker": "Yale.BLL\\Manager\\UserManager.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.BLL\\Manager\\UserManager.cs",
+              "RelativeToolTip": "Yale.BLL\\Manager\\UserManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:55:11.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Yale.SprayProcessSCADASystem",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T03:37:32.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIExtension.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UIExtension.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\UIExtension.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UIExtension.cs",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\UIExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:29:26.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Serivice\\UserService.cs",
+              "RelativeDocumentMoniker": "Yale.DAL\\Serivice\\UserService.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Serivice\\UserService.cs",
+              "RelativeToolTip": "Yale.DAL\\Serivice\\UserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:54:22.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.Model\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Yale.Model\\BaseEntity.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.Model\\BaseEntity.cs",
+              "RelativeToolTip": "Yale.Model\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:54:01.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.BLL\\Manager\\AuthManager.cs",
+              "RelativeDocumentMoniker": "Yale.BLL\\Manager\\AuthManager.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.BLL\\Manager\\AuthManager.cs",
+              "RelativeToolTip": "Yale.BLL\\Manager\\AuthManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:53:54.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Serivice\\DataService.cs",
+              "RelativeDocumentMoniker": "Yale.DAL\\Serivice\\DataService.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Serivice\\DataService.cs",
+              "RelativeToolTip": "Yale.DAL\\Serivice\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:53:50.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\BaseService.cs",
+              "RelativeDocumentMoniker": "Yale.DAL\\BaseService.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\BaseService.cs",
+              "RelativeToolTip": "Yale.DAL\\BaseService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvzQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:51:13.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataEntity.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.Model\\Entity\\DataEntity.cs",
+              "RelativeDocumentMoniker": "Yale.Model\\Entity\\DataEntity.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.Model\\Entity\\DataEntity.cs",
+              "RelativeToolTip": "Yale.Model\\Entity\\DataEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:54:02.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Serivice\\AuthService.cs",
+              "RelativeDocumentMoniker": "Yale.DAL\\Serivice\\AuthService.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\Serivice\\AuthService.cs",
+              "RelativeToolTip": "Yale.DAL\\Serivice\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:53:49.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DB.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\DB.cs",
+              "RelativeDocumentMoniker": "Yale.DAL\\DB.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.DAL\\DB.cs",
+              "RelativeToolTip": "Yale.DAL\\DB.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:51:16.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PageTotalEquipmentControl.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageTotalEquipmentControl.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\Pages\\PageTotalEquipmentControl.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageTotalEquipmentControl.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\Pages\\PageTotalEquipmentControl.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:25:01.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PageEquipmentMonitor2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageEquipmentMonitor2.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\Pages\\PageEquipmentMonitor2.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageEquipmentMonitor2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\Pages\\PageEquipmentMonitor2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:09:51.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDeviceUnitControl.cs [Design]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserDeviceUnitControl.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\UserControls\\UserDeviceUnitControl.cs",
+              "ToolTip": "D:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserDeviceUnitControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:24:21.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PageEquipmentMonitor.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageEquipmentMonitor.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\Pages\\PageEquipmentMonitor.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageEquipmentMonitor.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\Pages\\PageEquipmentMonitor.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:09:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserSetValue.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserSetValue.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\UserControls\\UserSetValue.cs",
+              "ToolTip": "D:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserSetValue.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:11:02.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDeviceUnitControl.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserDeviceUnitControl.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\UserControls\\UserDeviceUnitControl.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserDeviceUnitControl.cs",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\UserControls\\UserDeviceUnitControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:24:31.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserVarCurrentValue.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserVarCurrentValue.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\UserControls\\UserVarCurrentValue.cs",
+              "ToolTip": "D:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserVarCurrentValue.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:09:27.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDeviceState.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserDeviceState.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\UserControls\\UserDeviceState.cs",
+              "ToolTip": "D:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserDeviceState.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:24:22.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserCounterButton.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserCounterButton.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\UserControls\\UserCounterButton.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserCounterButton.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\UserControls\\UserCounterButton.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:11:00.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PageSystemParameterSet.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageSystemParameterSet.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\Pages\\PageSystemParameterSet.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageSystemParameterSet.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\Pages\\PageSystemParameterSet.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:09:53.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PageReportManage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageReportManage.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\Pages\\PageReportManage.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageReportManage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\Pages\\PageReportManage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:09:50.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PageRecipeManage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageRecipeManage.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\Pages\\PageRecipeManage.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageRecipeManage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\Pages\\PageRecipeManage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:09:48.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PageUserManage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageUserManage.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\Pages\\PageUserManage.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageUserManage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\Pages\\PageUserManage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:09:46.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserVarCurrentValue.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserVarCurrentValue.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\UserControls\\UserVarCurrentValue.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserVarCurrentValue.cs",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\UserControls\\UserVarCurrentValue.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvyMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:09:28.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PageTotalEquipmentControl.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageTotalEquipmentControl.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\Pages\\PageTotalEquipmentControl.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\Pages\\PageTotalEquipmentControl.cs",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\Pages\\PageTotalEquipmentControl.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAjwEkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:25:09.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserAlarmState.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserAlarmState.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\UserControls\\UserAlarmState.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\UserControls\\UserAlarmState.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\UserControls\\UserAlarmState.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:24:13.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\FrmMain.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\FrmMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\FrmMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:16:34.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\FrmMain.Designer.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\FrmMain.Designer.cs",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:04:49.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmLogin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Yale.SprayProcessSCADASystem\\FrmLogin.cs",
+              "ToolTip": "E:\\300\u89C6\u9891\\2024\\B\u7AD9\u8BFE\u7A0B\\\u4ED8\u8D39\u8BFE\u7A0B\\\u8F6F\u4EF6\u9879\u76EE\\Yale.SprayProcessSCADASystem\\Yale.SprayProcessSCADASystem\\FrmLogin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Yale.SprayProcessSCADASystem\\FrmLogin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:04:35.897Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 249,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
